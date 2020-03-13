@@ -58,6 +58,16 @@ Flow:
     - E. Get the sum of it and compare with the supposed sum from the shape of the array
 ```
 
+## Required libraries:
+```
+onnxruntime
+numpy
+cv2
+os
+onnx
+tensorflow
+```
+
 Task:
 - [x] Get intermediate layer in ONNX
 - [x] Get intermediate layer of Frozen Inference Graph of Tensorflow
